@@ -2,6 +2,8 @@ Pypaperutils - Useful functions for creating paper-ready figures in python
 ==============================
 
 A personal collection of funcions for creating nice figures that can be exported to latex. 
+- Colors of the TU Delft corporate image
+- more functions to come ...
 
 ![Example plot with colors of the TU Delft corporate design](./demo/example_plot.png)
 
