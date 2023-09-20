@@ -14,7 +14,7 @@ The package is under development. It may contain bugs and sections of unused or 
 1. Clone this repository. 
    
    ```
-   git clone  https://github.com/chrismo-schmidt/cyclistsocialforce.git
+   git clone  https://github.com/chrismo-schmidt/pypaperutils.git
    ```
 
 2. Install the package and it's dependencies. Refer to `pyproject.toml` for an overview of the dependencies. 
@@ -41,6 +41,5 @@ This package is licensed under the terms of the [MIT license](https://github.co
 ├── LICENSE
 ├── README.md
 └── src
-    ├── export
     └── design
 ```
